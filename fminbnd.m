@@ -1,1 +1,0 @@
-[xmin, fval] = fminbnd(function, x1, x2)
